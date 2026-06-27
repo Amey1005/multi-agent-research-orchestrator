@@ -1,6 +1,6 @@
-# 🤖 Multi-Agent AI Research Orchestrator
+#  Multi-Agent AI Research Orchestrator
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
+[![Python](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2-purple)](https://github.com/langchain-ai/langgraph)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3-green)](https://langchain.com)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-ff7c00)](https://gradio.app)
@@ -9,7 +9,7 @@ A multi-agent system built with **LangGraph** where specialised agents autonomou
 
 ---
 
-## 🏗️ Agent Architecture
+##  Agent Architecture
 
 ```
 User Query
@@ -46,7 +46,7 @@ User Query
 
 ---
 
-## ✨ Features
+##  Features
 
 - **LangGraph state-graph** with typed state and conditional routing
 - **Automatic retry logic** — Critic triggers re-search if quality score < 7 (max 2 retries)
@@ -56,8 +56,7 @@ User Query
 - **Markdown reports** auto-saved to `output/`
 
 ---
-
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/Amey1005/multi-agent-research-orchestrator.git
@@ -76,7 +75,7 @@ python -m src.orchestrator "What are the latest breakthroughs in fusion energy?"
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 multi-agent-research-orchestrator/
@@ -92,7 +91,7 @@ multi-agent-research-orchestrator/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **LangGraph** — Agent state-graph, conditional routing, retry logic
 - **LangChain** — LLM chains, tool integrations
