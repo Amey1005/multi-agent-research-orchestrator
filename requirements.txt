@@ -1,0 +1,11 @@
+# Multi-Agent Research Orchestrator
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+langgraph>=0.2.0
+openai>=1.40.0
+duckduckgo-search>=6.0.0
+wikipedia>=1.4.0
+gradio>=4.40.0
+python-dotenv>=1.0.0
