@@ -1,9 +1,9 @@
 #  Multi-Agent AI Research Orchestrator
 
 [![Python](https://python.org)
-[![LangGraph](https://img.shields.io/badge/LangGraph-0.2-purple)](https://github.com/langchain-ai/langgraph)
-[![LangChain](https://img.shields.io/badge/LangChain-0.3-green)](https://langchain.com)
-[![Gradio](https://img.shields.io/badge/UI-Gradio-ff7c00)](https://gradio.app)
+[![LangGraph](https://github.com/langchain-ai/langgraph)
+[![LangChain](https://langchain.com)
+[![Gradio](https://gradio.app)
 
 A multi-agent system built with **LangGraph** where specialised agents autonomously decompose research queries, gather sources from DuckDuckGo and Wikipedia, and produce structured markdown reports with citations.
 
